@@ -6,8 +6,8 @@
 /* header and navigaton styles */
 nav{
     display: flex;
-    justify-content: space-between;
-    margin: 50px 200px;
+    justify-content: space-between; 
+     margin: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -84,4 +84,68 @@ div img{
     height: 512px;
     left: 978px;
     top: 161px
+}
+/* main */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* section */
+
+.about{
+     margin-top: 130px;
+     background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.abouth{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+    /* padding-left: 354px;
+    padding-top: 8px;
+    padding-bottom: 37px; */
+}
+
+.aboutp{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+color: #757575;
+}
+
+/* about info */
+
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.fstp{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #757575;
+}
+.secp{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #474747;
 }
