@@ -149,3 +149,117 @@ line-height: 30px;
 text-align: center;
 color: #474747;
 }
+
+/* section */
+
+.head{
+    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+
+.imgsize{
+    /* font-size: 100px; */
+    width: 168px;
+    height: 60px;
+    left: 1023px;
+    top: 1326px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+.skill{
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5p;
+     padding: 30px;
+}
+
+.skill-title{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #181818;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+.skill-description{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #757575;
+}
+
+/* resume */
+
+.resume{
+    margin-top: 130px;
+    text-align: center;
+}
+.hd{
+    font-family: 'Open Sans';
+    font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 48px;
+text-align: center;
+color: #181818;
+}
+.resume-content{
+    display: flex;
+    margin-top: 100px;
+    gap: 20px;
+}
+
+.ah{
+    width: 203px;
+height: 41px;
+left: 230px;
+top: 2533px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 41px;
+color: #474747;
+}
+
+.bh{
+    width: 294px;
+height: 34px;
+left: 230px;
+top: 2604px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 34px;
+color: #474747;
+
+}
+.bhb{
+    width: 214px;
+height: 34px;
+left: 230px;
+top: 2604px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 34px;
+color: #474747;
+
+}
