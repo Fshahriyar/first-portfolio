@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header and navigaton styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 800;
+font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 28px;
+}
+nav li button{
+     color: white; 
+    background-color: #FD6E0A;
+    /* width: 150px;
+height: 64px;
+left: 1220px;
+top: 50px; */
+}
+.txt-pri{
+    color: #FD6E0A;
+}
+.header{
+    background:#FFFFFF ;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+/* banner */
+
+.banner{
+    margin: 50px 200px;
+    display: flex;
+    align-items: center;
+}
+.bannerh{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 61px;
+color: #474747;
+}
+.bannerb{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 116px;
+color: #181818;
+}
+.bannerp{
+    width: 585px;
+height: 60px;
+left: 226px;
+top: 496px;
+}
+.bannerbtn{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+background-color: #FD6E0A;
+color:  white;
+padding: 10px 15px;
+}
+
+div img{
+    width: 584px;
+    height: 512px;
+    left: 978px;
+    top: 161px
+}
